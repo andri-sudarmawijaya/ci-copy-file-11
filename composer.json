@@ -1,4 +1,13 @@
 {
+    "name": "andri-sudarmawijaya/ci-copy-file-11",
+    "description": "CI copy file using SlowProg\\CopyFile",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andri Sudarmawijaya",
+            "email": "andri.sudarmawijaya@gmail.com"
+        }
+    ],
     "require":{
         "twbs/bootstrap": "~3.3",
         "slowprog/composer-copy-file": "~0.3"
