@@ -23,6 +23,12 @@
     "extra": {
         "copy-file": {
             "vendor/twbs/bootstrap/fonts/": "web/fonts/"
+        },
+        "copy-file": {
+            "vendor/twbs/bootstrap/dist/js/bootstrap.min.js": "web/js/bootstrap.js"
+        },
+        "copy-file-dev": {
+            "vendor/twbs/bootstrap/dist/js/bootstrap.js": "web/js/bootstrap.js"
         }
     },
     "branch-alias": {
