@@ -9,7 +9,7 @@
         }
     ],
     "require":{
-        "twbs/bootstrap": "~3.3",
+        "twbs/bootstrap": "~4.6",
         "slowprog/composer-copy-file": "~0.3"
     },
     "scripts": {
