@@ -29,9 +29,9 @@
         },
         "copy-file-dev": {
             "vendor/twbs/bootstrap/dist/js/bootstrap.js": "web/js/bootstrap.js"
+        },
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
         }
-    },
-    "branch-alias": {
-        "dev-master": "1.0.x-dev"
     }
 }
