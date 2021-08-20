@@ -1,6 +1,6 @@
 {
     "name": "andri-sudarmawijaya/ci-copy-file-11",
-    "description": "CI copy file using SlowProg\\CopyFile",
+    "description": "CodeIgniter copy file using SlowProg\\CopyFile.",
     "license": "MIT",
     "authors": [
         {
